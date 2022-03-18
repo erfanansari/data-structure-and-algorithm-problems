@@ -10,4 +10,12 @@ function binarySearch(arr, value) {
     }
     return arr[middle] === value ? middle : -1
 }
-console.log(binarySearch([1, 2, 3, 34, 45, 51, 56, 687], 687))
+
+console.log(binarySearch([1, 2, 3, 34, 45, 51, 56, 687], 687)) // 687
+
+// Rather than eliminating one element at a time, you can eliminate half of the remaining elements at a time
+// Binary search is a Divide and Conquer algorithm
+// Binary search only works on sorted arrays
+// Divide and conquer is a technique where you break down a problem into
+// smaller subproblems until you can solve them individually
+// Time Complexity: O(log n)
