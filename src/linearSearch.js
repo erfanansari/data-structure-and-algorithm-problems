@@ -6,5 +6,3 @@ function linearSearch(arr, value) {
 }
 
 console.log(linearSearch([34, 51, 1, 2, 3, 45, 56, 687], 56))
-
-// Time Complexity: O(n)
