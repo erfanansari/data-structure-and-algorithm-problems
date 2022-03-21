@@ -22,3 +22,4 @@ console.log(bubbleSort([3, 2, 6, 30, 49, 57, 60])) // [2, 3, 6, 30, 49, 57, 60]
 // Why it's called bubble sort(syncing sort)? Because it's a sorting algorithm where the largest values bubble up to the top!
 // Time Complexity: O(n^2)
 // Best Case: O(n)
+// Space Complexity: O(1)
