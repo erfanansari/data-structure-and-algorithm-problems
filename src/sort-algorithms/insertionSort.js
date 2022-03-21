@@ -13,6 +13,7 @@ function insertionSort(arr) {
 console.log(insertionSort([2, 1, 9, 76, 4])) // [1, 2, 4, 9, 76]
 
 // Builds up the sort by gradually creating a larger left portion which is always sorted
+// It's a online algorithms which is an algorithm that can work as data is coming in
 // Time Complexity: O(n^2)
 // Best Case: O(n)
-// It's a online algorithms which is an algorithm that can work as data is coming in
+// Space Complexity: O(1)
