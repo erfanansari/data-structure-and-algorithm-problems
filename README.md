@@ -6,4 +6,5 @@
 
 bubbleSort, selectionSort and insertions sort are often called quadratic sorting
 algorithms because the time complexity of all of them is O(n^2) Although they
-can actually perform better on very small datasets
+can actually perform better on very small datasets These algorithms don't scale
+well to large datasets

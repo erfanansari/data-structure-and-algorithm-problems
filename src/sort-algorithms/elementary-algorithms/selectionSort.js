@@ -17,5 +17,3 @@ selectionSort([33, 22, 10, 19, 17]) // [10, 17, 19, 22, 33]
 // Time Complexity: O(n^2)
 // Best Case: O(n^2)
 // Space Complexity: O(1)
-
-elementary
