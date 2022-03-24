@@ -24,8 +24,6 @@
 
 #### Time Complexity of different statements
 
-<!-- prettier ignore -->
-
 simple operations => O(1) loops => O(n) recursion => O(log n) nested loops =>
 O(n^2)
 
