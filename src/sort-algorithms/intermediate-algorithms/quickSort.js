@@ -24,8 +24,8 @@ function quickSort(arr, left = 0, right = arr.length - 1) {
 console.log(quickSort([-1, 10, 5, 2, 3])) // [-1, 2, 3, 5, 10]
 
 // Like merge sort, exploits the fact that arrays of 0 or 1 elements are always sorted
-// Works by selecting one element (called the "pivot") and finding th e index where the pivot should end up
-// in the sorted array
+// Works by selecting one element (called the "pivot") and finding the index where the pivot
+// in the sorted array should end up
 // Once the pivot is positioned appropriately, quick soft can be applied on either side of the pivot
 // Time complexity: O(n log n)
 // Best Case: O(n log n)
