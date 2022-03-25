@@ -31,3 +31,10 @@ bubbleSort, selectionSort and insertions sort are often called quadratic sorting
 algorithms because the time complexity of all of them is O(n^2) Although they
 can actually perform better on very small datasets These algorithms don't scale
 well to large datasets
+
+# Data structures
+
+Data structures are collections of values, the relationships among them, and the
+functions or operations that can be applied to the data Different data
+structures excel at different things. Some are highly specialized, while others
+(like arrays) are more generally used.
